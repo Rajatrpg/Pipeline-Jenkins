@@ -18,7 +18,7 @@ pipeline{
         always{
             sh 'echo "always"'
         }
-        sucess{
+        success{
             sh 'echo "success"'
         }
         failure{
